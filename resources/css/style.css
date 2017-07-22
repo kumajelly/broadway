@@ -1,0 +1,43 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+p {
+  font-size: 14px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+li {
+  margin: .75em 0;
+}
+h1#bdesign {
+  font-size: 70px;
+}
+#header-list {
+  font-size: 18px;
+}
+.section1, #designny {
+  background-image: url('../../resources/images/the-flatiron-building.png');
+}
+#bdesign, #designny, .menu, .footer, a {
+  color: white;
+}
+#bdesign, #designny, #process, #portfolio, .processsec, #designteam, a {
+  font-weight: bold;
+}
+#process {
+  font-size: 32px;
+}
+#designny, .processsec, #designteam, #portfolio {
+  font-size: 23px;
+}
+.footer {
+  text-align: left;
+  background-color: dimgray;
+}
+#crt {
+  font-size: 11px;
+}
